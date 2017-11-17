@@ -1,0 +1,1 @@
+# Predicts Stock Sketchily
