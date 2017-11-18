@@ -1,3 +1,2 @@
-print(accuracy)﻿
 import time
 
